@@ -1,5 +1,7 @@
 ## Micronaut 3.3.0 Documentation
 
+[![CI](https://github.com/ajinzrathod/MicronautIntegrationTesting/actions/workflows/gradle.yml/badge.svg)](https://github.com/ajinzrathod/MicronautIntegrationTesting/actions/workflows/gradle.yml)
+
 - [User Guide](https://docs.micronaut.io/3.3.0/guide/index.html)
 - [API Reference](https://docs.micronaut.io/3.3.0/api/index.html)
 - [Configuration Reference](https://docs.micronaut.io/3.3.0/guide/configurationreference.html)
