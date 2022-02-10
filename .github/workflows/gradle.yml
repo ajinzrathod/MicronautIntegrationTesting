@@ -11,5 +11,7 @@ jobs:
           java-version: 17
           distribution: 'adopt'
           cache: 'gradle'
+      - name: Creating gradle executable
+        run: chmod +x ./gradlew
       - name: Test with Gradle
         run: ./gradlew test
